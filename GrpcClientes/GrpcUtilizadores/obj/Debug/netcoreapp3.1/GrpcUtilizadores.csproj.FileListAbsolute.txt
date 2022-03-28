@@ -1,0 +1,58 @@
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.exe
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.deps.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.runtimeconfig.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.runtimeconfig.dev.json
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Properties.Resources.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_ChavesAnteriores.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Entrar.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.View_Home.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Menu.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_RegistarAposta.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Regras.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Suporte.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_TermoseCondicoes.resources
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.GenerateResource.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.AssemblyInfoInputs.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.AssemblyInfo.cs
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.CoreCompileInputs.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.CopyComplete
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.dll
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.pdb
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.genruntimeconfig.cache
+C:\Users\jmfer\OneDrive\Ambiente de Trabalho\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csprojAssemblyReference.cache
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.exe
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.deps.json
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.runtimeconfig.json
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.runtimeconfig.dev.json
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\GrpcUtilizadores.pdb
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.AssemblyReference.cache
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Properties.Resources.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_ChavesAnteriores.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Entrar.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.View_Home.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Menu.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_RegistarAposta.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Regras.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_Suporte.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.Views.View_TermoseCondicoes.resources
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.GenerateResource.cache
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.AssemblyInfoInputs.cache
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.AssemblyInfo.cs
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.CoreCompileInputs.cache
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.csproj.CopyComplete
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.dll
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.pdb
+D:\3 Ano\Sistemas Distribuidos\Trabalhos Práticos\2º Trabalho\Trabalho2\GrpcClientes\GrpcUtilizadores\obj\Debug\netcoreapp3.1\GrpcUtilizadores.genruntimeconfig.cache

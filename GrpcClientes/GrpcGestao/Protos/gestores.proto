@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcClient";
+
+import "google/protobuf/timestamp.proto";
+
+service Gestor {
+
+	rpc VerificaEntradaGestor (GestorIdentidade) returns (GestorMensagem);
+	rpc RegistarChavesVencedora (RegistarChave) returns (stream RespostaVencedores);
+}
+
+message GestorIdentidade {
+	string Nome = 1;
+}
+
+message GestorMensagem{
+	string Mensagem = 1;
+}
+
+message RegistarChave{
+	int32 Numero1 = 1;
+	int32 Numero2 = 2;
+	int32 Numero3 = 3;
+	int32 Numero4 = 4;
+	int32 Numero5 = 5;
+	int32 Estrela1 = 6;
+	int32 Estrela2 = 7;
+	google.protobuf.Timestamp Data_Aposta = 8;
+}
+
+message RespostaVencedores {
+	string Nome = 1;
+	int32 Numero1 = 2;
+	int32 Numero2 = 3;
+	int32 Numero3 = 4;
+	int32 Numero4 = 5;
+	int32 Numero5 = 6;
+	int32 Estrela1 = 7;
+	int32 Estrela2 = 8;
+	int32 Premio = 9;
+	google.protobuf.Timestamp Data_Aposta = 10;
+	//int32 NrVencedores = 10;
+}

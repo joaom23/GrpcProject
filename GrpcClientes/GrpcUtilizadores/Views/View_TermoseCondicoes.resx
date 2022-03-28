@@ -1,0 +1,140 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBoxTermosCondicoes.Text" xml:space="preserve">
+    <value>Política de Privacidade e Proteção de Dados Pessoais
+Esta política regula o tratamento de dados pessoais recolhidos pela Associação de Professores de Português (“APP”) , enquanto responsável pelo seu tratamento, no âmbito da utilização do seu sítio na Internet.
+
+ 
+
+DADOS RECOLHIDOS E FINALIDADES
+A navegação na app exige um processo de registo.
+ 
+
+COMUNICAÇÕES E FORMULÁRIOS
+Por forma a fornecer-lhe informações sobre a APP, poderemos recolher os seus dados pessoais, nomeadamente o seu nome, endereço de correio eletrónico e número de telefone. Os seus dados serão mantidos até recebermos informação sua em contrário.
+
+ 
+
+No âmbito do seu interesse legítimo, a APP tratará ainda os dados recolhidos, para as finalidades de: i) prevenção e deteção de fraude; ii) segurança de rede e informação, iii) desenvolvimento e manutenção do website, iv) prestação de assistência técnica. Os dados serão tratados com base no consentimento, podendo ainda ser utilizados para o cumprimento de obrigações legais ou, ainda, quando exista um interesse legítimo da APP, nos termos da legislação aplicável e que observe os direitos dos utilizadores.
+
+ 
+
+Nos termos da legislação em vigor, é garantido o acesso, retificação, oposição ao tratamento, portabilidade, eliminação e limitação do tratamento dos seus dados pessoais, via contacto direto para a área inicialmente contactada. O utilizador tem igualmente direito a apresentar uma reclamação à CNPD ou a outra autoridade de controlo competente nos termos da lei, caso entenda que o tratamento dos seus dados pela APP viola o regime legal em vigor a cada momento. A remoção do consentimento não invalida o tratamento efetuado até essa data com base no consentimento anteriormente prestado.
+
+COMUNICAÇÃO DE DADOS PESSOAIS E SEGURANÇA
+Com o compromisso de assegurar a segurança dos dados pessoais dos seus sócios, a APP implementou as medidas de segurança técnicas e organizadas consideradas necessárias às atividades de processamento.
+
+Os dados recolhidos não são transferidos para terceiros sem o consentimento prévio do sócio. No entanto, a APP recorre a parceiros externos nomeadamente para desenvolvimento, manutenção e alojamento de sistemas informáticos, agências de marketing e comunicação, estudos de mercado, apoio ao cliente, a triagem, avaliação e seleção de candidatos. Nestes casos, a APP assegura que os seus parceiros cumprem com as medidas técnicas e organizacionais adequadas à atividade de processamento. Neste âmbito, os dados recolhidos poderão ser transferidos para entidades que se localizam em países terceiros (fora da União Europeia), sendo assegurado que são tomadas as medidas de segurança apropriadas de acordo com a legislação em vigor.
+
+Os dados pessoais poderão ainda ser partilhados com outras entidades de acordo com: a) legislação aplicável, b) cumprimento de obrigações legais, c) ou na resposta a pedidos de autoridades públicas e governamentais.
+
+ALTERAÇÕES À POLÍTICA DE PROTECÇÃO DE DADOS
+A Associação de Professores de Português reserva-se o direito de alterar esta política de privacidade, a qualquer momento, sendo as alterações devidamente publicitadas.
+
+Data da última atualização: 10-06-2020
+ 
+
+Termos de Uso
+DIREITOS DE AUTOR E PROPRIEDADE INDUSTRIAL
+Todos os dados, marcas registadas e todo o conteúdo em geral neste sítio, são da propriedade ou do uso exclusivo da Associação de Professores de Português, e estão protegidos nos termos gerais de direito e pela legislação nacional e internacional de proteção da Propriedade Intelectual. A reprodução para uso pessoal é permitida, mas são proibidas as modificações não autorizadas, imitações, empréstimos, alugueres, transmissões ou venda de qualquer conteúdo deste sítio.
+
+Os conteúdos das páginas deste sítio estão protegidas por Direitos de Autor e Direitos Conexos, e Direitos da Propriedade Industrial.
+
+Todos os direitos que não sejam expressamente concedidos pela Associação de Professores de Português são direitos reservados. Sendo assim, todos os textos, imagens, ilustrações, fotografias, publicidade, marcas e outros elementos do conteúdo do sítio, estão protegidos por lei, sendo expressamente interdita qualquer cópia, reprodução, difusão ou transmissão, utilização, modificação, venda, publicação, distribuição ou qualquer outro uso, total ou parcial, quaisquer que sejam os meios utilizados.
+
+Excetuam-se a esta interdição os usos livres autorizados por lei, nomeadamente o direito de citação, desde que claramente identificada a sua origem.
+
+Concede-se autorização para utilizar documentos (tais como Comunicados de Imprensa) a partir deste sítio, desde que o aviso de direitos de autor apareça em todas as cópias. A utilização desses documentos deverá servir exclusivamente para efeitos informativos e não comerciais ou pessoais, não sendo copiados ou colocados em qualquer computador de rede ou difundido em qualquer outro meio de comunicação, e que não sejam efetuadas quaisquer modificações nos documentos. Os infratores serão objeto de processo judicial.
+
+Embora os dados pessoais que nos são fornecidos estejam ao abrigo do definido na nossa política de privacidade, entendemos que toda a informação que nos é comunicada através da Internet (incluindo sugestões, material ou ideias) será da nossa propriedade e uso exclusivo, se bem que restrito. Tal informação não terá de ser tratada por nós como confidencial.
+
+Algumas partes do sítio podem conter imagens que são alvo de direitos de autor dos seus fornecedores (como por exemplo as fotos de banco de imagem).
+
+Qualquer software que esteja disponível para ser descarregado a partir do sítio da APP tem os direitos de autor do operador que o fornece. Os termos de uso deste software são estabelecidos pelo operador que o disponibiliza, pelo que, recomendamos a sua leitura.
+
+ 
+
+HIPERLIGAÇÕES
+Para facilitar a sua acessibilidade, a APP pode incluir links para outros sítios na internet. Quando utilizar os links para esses sítios, deverá rever e aceitar as regras desse sítio antes de o utilizar. Não nos é possível garantir a qualidade dos mesmos, nem assumimos qualquer responsabilidade pelo conteúdo ou demais funcionalidades desses sítios.
+
+O website da APP, não é responsável quer pelo conteúdo, quer pela temática de qualquer outro portal, incluindo qualquer sítio que tenha dado acesso ao seu portal ou cujo acesso tenha sido conseguido através do seu portal.
+
+USO E RISCO
+Nem a Associação de Professores de Português nem qualquer outra parte envolvida na criação, produção, manutenção ou implementação do sítio poderão ser responsabilizadas por quaisquer prejuízos ou danos em sede de responsabilidade civil (incluindo, mas sem limitação, danos emergentes, lucros cessantes e danos morais, causados direta ou indiretamente), que surjam em consequência da utilização correta ou incorreta do sítio e dos seus conteúdos pelo utilizador, do acesso ao computador e sistema informático do utilizador por terceiros, vírus, etc.
+
+Apesar de se empenhar na segurança do seu website e colocar em prática as medidas de proteção técnicas, físicas e lógicas, adequadas para garantir a proteção do mesmo, a Associação de Professores de Português  não garante nem declara que os ficheiros disponíveis para descarregar no sítio estejam livres de vírus, worms, cavalos de Tróia, scripts ou qualquer outro código ou programa que contenham propriedades destrutivas ou prejudiciais.
+
+A informação constante no sítio deve ser encarada na sua vertente informativa. Apesar dos esforços da APP em manter os conteúdos atualizados e fidedignos, estes podem conter incorreções, erros de tipografia ou estar desatualizados, e podem ser alterados em qualquer momento sem que para isso a Associação de Professores de Português tenha obrigação de notificação prévia. Não se recomenda portanto o seu uso na tomada de decisões.
+
+POLÍTICA DE ATUAÇÃO
+Está expressamente proibida a utilização do sítio para fins ilegais ou quaisquer outros fins que possam ser considerados indignos da imagem da Associação de Professores de Português.
+
+A usurpação, contrafação, aproveitamento do conteúdo usurpado ou contrafeito, a identificação ilegítima e a concorrência desleal são puníveis criminalmente.
+
+É também proibido ao utilizador criar ou introduzir neste sítio quaisquer tipos de vírus, worms, cavalos de Tróia, scripts ou qualquer outro código ou programa que contenham propriedades destrutivas ou prejudiciais, ou aconselhar terceiros a fazê-lo.
+
+LEI APLICÁVEL E TRIBUNAL COMPETENTE
+Estes Termos e Condições são regidos e interpretados de acordo com a lei portuguesa. É competente o Tribunal de Lisboa com exclusão de qualquer outro para dirimir quaisquer conflitos que resultem da interpretação e aplicação
+ dos presentes Termos e Condições para a utilização da APP.
+
+
+</value>
+  </data>
+</root>

@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcClient";
+
+import "google/protobuf/timestamp.proto";
+
+service Administrador {
+
+	rpc VerificaEntradaAdmnistrador (AdmnistradorIdentidade) returns (AdmnistradorMensagem);
+	rpc VisualizarChaves (VisualizarVazio) returns ( stream RespostaVisualizarApostas);
+	rpc ArquivarChaves (ArquivarVazio) returns (ArquivarMensagem);
+
+}
+
+message AdmnistradorIdentidade{
+	string Nome = 1;
+}
+
+message AdmnistradorMensagem{
+	string mensagem = 1;
+}
+
+
+message VisualizarVazio {
+
+}
+
+message RespostaVisualizarApostas {
+	string Nome = 1;
+	int32 Numero1 = 2;
+	int32 Numero2 = 3;
+	int32 Numero3 = 4;
+	int32 Numero4 = 5;
+	int32 Numero5 = 6;
+	int32 Estrela1 = 7;
+	int32 Estrela2 = 8;
+	google.protobuf.Timestamp Data_Aposta = 9;
+	//int32 NrApostas = 9;
+}
+
+message ArquivarVazio {
+
+}
+
+message ArquivarMensagem {
+	string mensagem = 1;
+}

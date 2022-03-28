@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcClient";
+
+import "google/protobuf/timestamp.proto";
+
+service Jogador {
+
+	rpc VerificaEntrada (JogadorIdentidade) returns (JogadorMensagem);
+	rpc RecebeApostaChave (JogadorAposta) returns (JogadorResultadoAposta);
+	rpc VerApostas (JogadorDados) returns (stream JogadorChavesAnteriores);
+}
+
+message JogadorIdentidade{
+	string Nome = 1;
+	int32 Idade = 2;
+}
+
+message JogadorMensagem{
+	string mensagem = 1;
+}
+
+message JogadorAposta{
+	string Nome = 1;
+	int32 Numero1 = 2;
+	int32 Numero2 = 3;
+	int32 Numero3 = 4;
+	int32 Numero4 = 5;
+	int32 Numero5 = 6;
+	int32 Estrela1 = 7;
+	int32 Estrela2 = 8;
+	google.protobuf.Timestamp Data_Aposta = 9;
+}
+
+message JogadorResultadoAposta{
+	string mensagem = 1;
+}
+
+message JogadorDados{
+	string Nome = 1;
+}
+
+message JogadorChavesAnteriores {
+	int32 Numero1 = 1;
+	int32 Numero2 = 2;
+	int32 Numero3 = 3;
+	int32 Numero4 = 4;
+	int32 Numero5 = 5;
+
+	int32 Estrela1 = 6;
+	int32 Estrela2 = 7;
+	google.protobuf.Timestamp DataAposta = 8;
+}

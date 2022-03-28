@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos/Administradores.cs \
+obj\Debug\netcoreapp3.1\Protos/AdministradoresGrpc.cs: C:/Users/jmfer/.nuget/packages/grpc.tools/2.38.0/build/native/include/google/protobuf/timestamp.proto\
+ Protos/administradores.proto
