@@ -66,6 +66,7 @@ namespace GrpcUtilizadores
             var channel = GrpcChannel.ForAddress("https://25.78.63.178:5001", new GrpcChannelOptions { HttpHandler = httpClientHandler });
             var client = new JogadorClient(channel);
 
+
             JogadorAposta aposta = new JogadorAposta
             {
                 Nome = User,
